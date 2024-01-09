@@ -1,6 +1,6 @@
 # CSS animatie interactie op HTML elementen
 - **CSS classes:** CSS keyframe animaties met CSS classes.
-- **addEventlistener:** voorbeelden met mouseover, mousedown en mouseleave.
+- **addEventListener:** voorbeelden met mouseover, mousedown en mouseleave.
 
 ## Voorbeeld bestanden
 Bestanden **downloaden** naar je laptop? [Klik hier](https://github.com/CMD-Groningen/css-animatie-interactie-op-html-elementen/archive/refs/heads/master.zip)     
