@@ -1,5 +1,5 @@
 # CSS animatie interactie op HTML elementen
-Dit voorbeeld laat zien hoe je via interactie met de muis CSS animaties op HTML elementen kan "plakken"!
+Dit voorbeeld laat zien hoe je via interactie met de muis CSS animaties op HTML elementen kan "plakken"! AdEventListener voor interactie met de muis, CSS keyframe animaties voor het animeren van de HTML elementen via interactie.
 
 - **CSS classes:** CSS keyframe animaties met CSS classes.
 - **addEventListener:** voorbeelden met mouseover, mousedown en mouseleave.
